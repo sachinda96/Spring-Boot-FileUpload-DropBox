@@ -30,4 +30,6 @@
             
             }
 
-7 . upload ,download and view files using DbxClientV2 client
+6. Run fileupload.html file with spring boot project
+
+7. upload ,download and view files using DbxClientV2 client
