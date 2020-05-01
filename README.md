@@ -7,7 +7,7 @@
 
 4. Create spring project using spring initializr
 
-5 Add Maven Dependency in Pom.xml
+5. Add Maven Dependency in Pom.xml
 
                 <dependency>
         			<groupId>com.dropbox.core</groupId>
@@ -15,7 +15,7 @@
         			<version>3.0.6</version>
         		</dependency>
 
-5. Add Access Token and project Name configuration class
+6. Add Access Token and project Name configuration class
         
         public class DropBoxConfig {
             private static final String ACCESS_TOKEN = "YOUR_ACCES_TOKEN";
@@ -30,4 +30,4 @@
             
             }
 
-6 . upload ,download and view files using DbxClientV2 client
+7 . upload ,download and view files using DbxClientV2 client
